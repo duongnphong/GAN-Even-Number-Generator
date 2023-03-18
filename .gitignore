@@ -1,0 +1,4 @@
+__pycache__
+venv_*
+model.pth
+TODO.md
